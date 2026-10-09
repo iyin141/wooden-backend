@@ -1,0 +1,11 @@
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\bin\Debug\net10.0\WoodLounge.Domain.deps.json
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\bin\Debug\net10.0\WoodLounge.Domain.dll
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\bin\Debug\net10.0\WoodLounge.Domain.pdb
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\WoodLounge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\WoodLounge.Domain.AssemblyInfoInputs.cache
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\WoodLounge.Domain.AssemblyInfo.cs
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\WoodLounge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\WoodLounge.Domain.dll
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\refint\WoodLounge.Domain.dll
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\WoodLounge.Domain.pdb
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Domain\obj\Debug\net10.0\ref\WoodLounge.Domain.dll

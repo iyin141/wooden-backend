@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WoodLounge.Api/WoodLounge.Api.csproj" />
+    <Project Path="src/WoodLounge.Application/WoodLounge.Application.csproj" />
+    <Project Path="src/WoodLounge.Domain/WoodLounge.Domain.csproj" />
+    <Project Path="src/WoodLounge.Infrastructure/WoodLounge.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WoodLounge.IntegrationTests/WoodLounge.IntegrationTests.csproj" />
+    <Project Path="tests/WoodLounge.UnitTests/WoodLounge.UnitTests.csproj" />
+  </Folder>
+</Solution>

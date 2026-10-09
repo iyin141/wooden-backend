@@ -1,0 +1,15 @@
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\bin\Debug\net10.0\WoodLounge.Application.deps.json
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\bin\Debug\net10.0\WoodLounge.Application.dll
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\bin\Debug\net10.0\WoodLounge.Application.pdb
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\bin\Debug\net10.0\WoodLounge.Domain.dll
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\bin\Debug\net10.0\WoodLounge.Domain.pdb
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLounge.Application.csproj.AssemblyReference.cache
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLounge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLounge.Application.AssemblyInfoInputs.cache
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLounge.Application.AssemblyInfo.cs
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLounge.Application.csproj.CoreCompileInputs.cache
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLoun.57A6493F.Up2Date
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLounge.Application.dll
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\refint\WoodLounge.Application.dll
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\WoodLounge.Application.pdb
+C:\Users\iyino\Downloads\Pitch project\wood-lounge-app\apps\api\src\WoodLounge.Application\obj\Debug\net10.0\ref\WoodLounge.Application.dll
